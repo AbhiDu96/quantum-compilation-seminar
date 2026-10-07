@@ -1,0 +1,17 @@
+version: 1
+project:
+  id: quantum-compilation-seminar
+  title: Compilation for Quantum Computers
+  authors:
+    - name: Abhishek Dubey
+  github: https://github.com/AbhiDu96/quantum-compilation-seminar
+  toc:
+    - file: intro.md
+    - file: logistics.md
+    - file: schedule.md
+    - file: syllabus.md
+    - file: expectations.md
+    - file: setup.md
+    - file: resources.md
+site:
+  template: book-theme
