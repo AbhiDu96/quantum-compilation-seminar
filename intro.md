@@ -2,6 +2,8 @@
 
 A research-oriented seminar on how a quantum algorithm becomes an executable sequence of operations on real hardware, from circuit synthesis to error-corrected and distributed machines.
 
+![The compiler sits write in the middle of the application layer and the hardware layer. The compilation layer itself consists of various sub-routines as shown in the picture which have to be optimized both jointly and individually.](assets/quantum-compiler-stack.svg)
+
 Offered at the Chair for Theoretical Physics (Prof. Dr. Michael Hartmann), in the winter semester 2026/27. Instructor: Abhishek Dubey.
 
 ## Abstract
