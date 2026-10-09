@@ -1,6 +1,6 @@
 # Resources
 
-Software used in the hands-on sessions, and general background reading. Per-topic reading lists are in the [syllabus](syllabus.md) and will be added before the semester starts.
+Tools you may want to try while preparing a presentation, and general background reading. The reference paper for each topic is in the syllabus.
 
 ## Compilers and toolkits
 
@@ -17,6 +17,7 @@ These are general references, not a required reading list.
 
 - M. A. Nielsen and I. L. Chuang, *Quantum Computation and Quantum Information*, Cambridge University Press.
 - J. Preskill, "Quantum Computing in the NISQ era and beyond", *Quantum* 2, 79 (2018).
+- Bharti, Kishor, et al. "Noisy intermediate-scale quantum algorithms." Reviews of Modern Physics 94.1 (2022): 015004.
 - Noson S. Yanofsky and Mirco A. Mannucci, *Quantum computing for Computer Scientisits*, Cambridge University Press.
 - Oswaldo Zapata, "A Short Introduction to Quantum Computing for Physicists", [https://arxiv.org/pdf/2306.09388](https://arxiv.org/pdf/2306.09388).
 - Marco Maronese, Lorenzo Moro, Lorenzo Rocutto, and Enrico

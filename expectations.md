@@ -14,9 +14,9 @@ Student presentations take place on Fridays. Each presentation is 45 minutes, fo
 - You can take an assigned topic or choose your own. A topic that connects to your own research or project is welcome.
 - How topics and dates are assigned: **TBD**
 
-## Work with the tools
+## Prepare in the Thursday discussion
 
-Thursday sessions are hands-on: a tooling lab with compilers such as Qiskit, Pennylane, pytket, the Munich Quantum Toolkit, and BQSKit, or problem exercises. Set up your environment beforehand by following the [setup](setup.md) instructions, so the session time goes to the exercises.
+The Thursday session is a 45-minute discussion with the instructor about the paper or topic you would like to present on Friday. Use it to ask questions, name knowledge gaps, and get feedback on your plan before you present.
 
 ## Prerequisites
 
@@ -24,4 +24,4 @@ A working knowledge of quantum computing fundamentals is recommended, for exampl
 
 ## Assessment and credit
 
-There is no grade. Whether ECTS credits can be awarded for participation is **TBD**. This page will be updated once it is confirmed.
+There is no grade. The number of ECTS awarded for participation is **TBD**. This page will be updated once it is confirmed.

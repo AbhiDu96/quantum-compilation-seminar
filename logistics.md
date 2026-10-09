@@ -6,11 +6,12 @@ Everything you need to know to take part. Items marked **TBD** are not final yet
 
 | | |
 | --- | --- |
-| Term | Winter semester 2026/27, aligned with the FAU lecture period (starting around mid-October). Exact start date: 19 October, 2026 |
+| Term | Winter semester 2026/27 |
+| Dates | 19 October - 21 December 2026 |
 | Instructor | Abhishek Dubey |
 | Host | Chair for Theoretical Physics |
 | Meetings | Three days per week: Tuesday, Thursday, Friday. Times: **TBD** |
-| Format | Fully online is possible for this seminar. Final format and meeting link: **TBD** |
+| Format | Fully online. Meeting link: **TBD** |
 | Language | English |
 | Open to | All interested students. |
 | Assessment | Participation only. |
@@ -33,5 +34,4 @@ Each week has five sessions across three days, roughly four hours in total. The 
 ## Before you join
 
 - Read the [expectations](expectations.md) to see what is asked of participants, including the student presentation.
-- Follow the [setup](setup.md) instructions so you can run the hands-on exercises.
 - A working knowledge of quantum computing fundamentals is recommended. No background in quantum error correction is assumed.

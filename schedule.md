@@ -1,13 +1,13 @@
 # Schedule
 
-The seminar runs during the FAU lecture period of the winter semester 2026/27, from 19 October 2026 to 5 February 2027 ([FAU semester dates](https://www.fau.eu/study/current-students/semester-dates)). This calendar is provisional, and the start date and meeting times are **TBD**.
+The seminar runs during the FAU lecture period of the winter semester 2026/27, from 19 October 2026 to 21 December 2026. This calendar is provisional, and the start date and meeting times are **TBD**.
 
 ## Weekly rhythm
 
 | Day | What happens |
 | --- | --- |
 | Tuesday | Instructor presentation of the week's topic, followed by an open discussion |
-| Thursday | Open session: tooling lab or problem exercises |
+| Thursday | Discussion session: talk with the instructor about the paper or topic you would like to present on Friday |
 | Friday | Student presentation, followed by discussion and feedback |
 
 Session lengths and meeting times are listed under [logistics](logistics.md).
@@ -28,7 +28,6 @@ One topic per week. The topics are described in the [syllabus](syllabus.md).
 | 8 | 8. ML for QEC |
 | 9 | 9. Logical compilation for Clifford circuits |
 | 10 | 10. Introduction to circuit cutting |
-| | 21 Dec to early Jan  | Christmas break, dates **TBD** |
 | 11 | 11. Stabilizer codes |
 | 12 | 12. Compilation for distributed quantum computing |
 | 13 | Reserve week for remaining presentations and catch-up |

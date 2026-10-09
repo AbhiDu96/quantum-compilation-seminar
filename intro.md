@@ -15,7 +15,7 @@ Topics covered include circuit synthesis and unitary decomposition, qubit mappin
 Each week combines three kinds of work:
 
 - **Instructor-led sessions** introduce a curated topic through a few key papers or established tools, followed by an open discussion.
-- **Hands-on tooling sessions** use frameworks such as Qiskit, Pennylane, pytket, the Munich Quantum Toolkit, and BQSKit, and work through problem exercises to get a hands on experience of solving real problems in quantum compilation.
+- **A discussion session** with the instructor, where you talk through the paper or topic you want to present, including questions, knowledge gaps, and feedback.
 - **Student presentations** on an assigned or self-chosen topic, followed by discussion and feedback.
 
 See the [schedule](schedule.md) for the weekly plan and the [syllabus](syllabus.md) for the different topics.
@@ -26,8 +26,8 @@ The seminar is open to all interested students. A working knowledge of quantum c
 
 ## At a glance
 
-- **Term:** winter semester 2026/27. Start date: 19 October, 2026
-- **Format:** remote or in person, see [logistics](logistics.md). **TBD**
+- **Term:** winter semester 2026/27. 19 October - 21 December 2026
+- **Format:** remote, see [logistics](logistics.md)
 - **Assessment:** participation only, no grading
 - **ECTS credits:** **TBD**
 - **Contact:** **TBD**
