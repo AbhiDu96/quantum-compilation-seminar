@@ -30,5 +30,5 @@ The seminar is open to all interested students. A working knowledge of quantum c
 - **Format:** remote, see [logistics](logistics.md)
 - **Assessment:** participation only, no grading
 - **ECTS credits:** **TBD**
-- **Contact:** **TBD**
+- **Contact:** abhishek.yogendra.dubey@iis.fraunhofer.de
 - **FAU Campo listing:** **TBD**

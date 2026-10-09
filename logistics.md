@@ -27,7 +27,7 @@ Each week has five sessions across three days, roughly four hours in total. The 
 | --- | --- | --- |
 | Tuesday | Instructor presentation of the week's topic | 45 min |
 | Tuesday | Open discussion | 45 min |
-| Thursday | Open session: tooling lab or problem exercises | 45 min |
+| Thursday | Discussion session about the paper or topic you want to present | 45 min |
 | Friday | Student presentation | 45 min |
 | Friday | Discussion and feedback | 45 min |
 
