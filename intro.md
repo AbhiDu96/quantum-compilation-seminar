@@ -33,4 +33,4 @@ The seminar is open to all interested students. A working knowledge of quantum c
 - **Assessment:** participation only, no grading
 - **ECTS credits:** **TBD**
 - **Contact:** abhishek.yogendra.dubey@iis.fraunhofer.de
-- **FAU Campo listing:** **TBD**
+- **FAU Campo listing:** https://www.studon.fau.de/studon/ilias.php?baseClass=ilrepositorygui&ref_id=7174229

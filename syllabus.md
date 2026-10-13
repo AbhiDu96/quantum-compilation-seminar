@@ -2,8 +2,6 @@
 
 The seminar covers twelve topics, numbered in teaching order. Each topic is introduced by the instructor through a few key papers or established tools, then explored in a hands-on session and in student presentations. The [schedule](schedule.md) shows how topics map to weeks.
 
-**TBD:** a short reading list for each topic will be added before the semester starts.
-
 ### 1. Introduction to quantum compilation
 
 The stack from algorithm to pulse: which transformation happens at each layer, and which hardware constraints (connectivity, gate set, noise) each layer has to respect.
